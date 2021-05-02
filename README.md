@@ -18,7 +18,7 @@ My first NLP Project:
 
 Analyzing Hair product article given a personality's customer target.
 
-Check out here: Hair product sentimental analysis(https://github.com/ElenaP-Github/ElenaP-Original-NLP/blob/main/NLP%20-%20Marketing%20case.ipynb)
+Check out here: [Hair product sentimental analysis](https://github.com/ElenaP-Github/ElenaP-Original-NLP/blob/main/NLP%20-%20Marketing%20case.ipynb)
 
 
 Future prjoects in mind:
