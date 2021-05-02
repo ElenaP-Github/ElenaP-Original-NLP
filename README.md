@@ -25,5 +25,6 @@ Future prjoects in mind:
 
 - Chatbots
 - A language identifier
+- False statements detection
 
 [Some new ideas](https://www.upgrad.com/blog/natural-language-processing-nlp-projects-ideas-topics-for-beginners/)
